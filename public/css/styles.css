@@ -1,0 +1,112 @@
+/* line 1, ../../sass/partials/_layout.scss */
+* {
+  box-sizing: border-box;
+}
+
+/* line 4, ../../sass/partials/_layout.scss */
+body, html {
+  min-height: 100%;
+  overflow-x: hidden;
+  width: 100%;
+}
+
+/* line 9, ../../sass/partials/_layout.scss */
+header {
+  min-height: 0px;
+}
+
+/* line 12, ../../sass/partials/_layout.scss */
+section {
+  min-height: 100vh;
+}
+
+/* line 31, ../../sass/partials/_mixins.scss */
+.error-s1 {
+  background-attachment: fixed;
+  background-image: url(../img/error.jpg);
+  background-position: top left;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* line 31, ../../sass/partials/_mixins.scss */
+.comingsoon-s1 {
+  background-attachment: fixed;
+  background-image: url(../img/coming.jpg);
+  background-position: top left;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* line 31, ../../sass/partials/_mixins.scss */
+.privacy-s1 {
+  background-attachment: fixed;
+  background-image: url(../img/privacy.jpg);
+  background-position: top left;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* line 3, ../../sass/partials/_modules.scss */
+* {
+  font-family: "Arial";
+}
+
+/* line 7, ../../sass/partials/_modules.scss */
+.comingsoon-s1, .error-s1, .privacy-s1 {
+  background-blend-mode: soft-light;
+  background-color: #333;
+  min-height: calc( 100vh - 0px );
+  min-height: -o-calc( 100vh - 0px );
+  min-height: -moz-calc( 100vh - 0px );
+  min-height: -webkit-calc( 100vh - 0px );
+}
+
+/* line 12, ../../sass/partials/_modules.scss */
+.comingsoon-s1, .error-s1, .privacy-s1 {
+  min-height: calc( 100vh - 0px );
+  min-height: -o-calc( 100vh - 0px );
+  min-height: -moz-calc( 100vh - 0px );
+  min-height: -webkit-calc( 100vh - 0px );
+}
+
+/* line 23, ../../sass/partials/_modules.scss */
+.decoration-none {
+  text-decoration: none !important;
+}
+
+/* line 33, ../../sass/partials/_modules.scss */
+.font-logo {
+  font-family: "Arial";
+  font-size: 24px;
+}
+/* line 36, ../../sass/partials/_modules.scss */
+.font-menu {
+  font-family: "Arial";
+  font-size: 16px;
+}
+
+/* line 41, ../../sass/partials/_modules.scss */
+.minh-50vh {
+  min-height: 50vh;
+}
+/* line 44, ../../sass/partials/_modules.scss */
+.minh-100vh {
+  min-height: 100vh;
+}
+
+/* line 49, ../../sass/partials/_modules.scss */
+.p-header {
+  padding-top: 60px;
+}
+
+/* line 54, ../../sass/partials/_modules.scss */
+.privacy-container {
+  background-color: #fff !important;
+  opacity: 0.8;
+}
+
+/* line 63, ../../sass/partials/_modules.scss */
+.text-shadow {
+  text-shadow: 1px 1px 4px #000;
+}
