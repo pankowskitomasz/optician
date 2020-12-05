@@ -1,0 +1,28 @@
+$bg__blend--soft: soft-light;
+$bg__classes:
+    "error",
+    "comingsoon",
+    "privacy";
+$bg__comingsoon-img: "../img/coming.jpg";
+$bg__error-img: "../img/error.jpg";
+$bg__privacy-img: "../img/privacy.jpg";
+$bg__aoa:
+    $bg__error-img,
+    $bg__comingsoon-img,
+    $bg__privacy-img;
+$body__min-height: 100%;
+$border__bold--size: 6px;
+$border__bold--style: solid;
+$border__bottom--border: 1px solid #888;
+$color__bg-1: #333;
+$color__container-bg: #fff;
+$color__shadow: #000;
+$color__white: #fff;
+$font-logo__family: 'Arial';
+$font-logo__size: 24px;
+$font-main__family: 'Arial';
+$font-main__size: 16px;
+$header__height: 0px;
+$padding__header: 60px;
+$section__min-height: 100vh;
+$text__shadow: 1px 1px 4px $color__shadow;
