@@ -1,3 +1,246 @@
+/* vietnamese */
+@font-face {
+  font-family: 'Dancing Script';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/If2RXTr6YS-zF4S-kcSWSVi_szLviuEViw.woff2) format("woff2");
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Dancing Script';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/If2RXTr6YS-zF4S-kcSWSVi_szLuiuEViw.woff2) format("woff2");
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Dancing Script';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/If2RXTr6YS-zF4S-kcSWSVi_szLgiuE.woff2) format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Dancing Script';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(../fonts/If2RXTr6YS-zF4S-kcSWSVi_szLviuEViw.woff2) format("woff2");
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Dancing Script';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(../fonts/If2RXTr6YS-zF4S-kcSWSVi_szLuiuEViw.woff2) format("woff2");
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Dancing Script';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(../fonts/If2RXTr6YS-zF4S-kcSWSVi_szLgiuE.woff2) format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Dancing Script';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(../fonts/If2RXTr6YS-zF4S-kcSWSVi_szLviuEViw.woff2) format("woff2");
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Dancing Script';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(../fonts/If2RXTr6YS-zF4S-kcSWSVi_szLuiuEViw.woff2) format("woff2");
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Dancing Script';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(../fonts/If2RXTr6YS-zF4S-kcSWSVi_szLgiuE.woff2) format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Dancing Script';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(../fonts/If2RXTr6YS-zF4S-kcSWSVi_szLviuEViw.woff2) format("woff2");
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Dancing Script';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(../fonts/If2RXTr6YS-zF4S-kcSWSVi_szLuiuEViw.woff2) format("woff2");
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Dancing Script';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(../fonts/If2RXTr6YS-zF4S-kcSWSVi_szLgiuE.woff2) format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(../fonts/1Ptug8zYS_SKggPNyCAIT5lu.woff2) format("woff2");
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(../fonts/1Ptug8zYS_SKggPNyCkIT5lu.woff2) format("woff2");
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(../fonts/1Ptug8zYS_SKggPNyCIIT5lu.woff2) format("woff2");
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(../fonts/1Ptug8zYS_SKggPNyCMIT5lu.woff2) format("woff2");
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(../fonts/1Ptug8zYS_SKggPNyC0ITw.woff2) format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(../fonts/1Ptug8zYS_SKggPNyCAIT5lu.woff2) format("woff2");
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(../fonts/1Ptug8zYS_SKggPNyCkIT5lu.woff2) format("woff2");
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(../fonts/1Ptug8zYS_SKggPNyCIIT5lu.woff2) format("woff2");
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(../fonts/1Ptug8zYS_SKggPNyCMIT5lu.woff2) format("woff2");
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(../fonts/1Ptug8zYS_SKggPNyC0ITw.woff2) format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(../fonts/1Ptug8zYS_SKggPNyCAIT5lu.woff2) format("woff2");
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(../fonts/1Ptug8zYS_SKggPNyCkIT5lu.woff2) format("woff2");
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(../fonts/1Ptug8zYS_SKggPNyCIIT5lu.woff2) format("woff2");
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(../fonts/1Ptug8zYS_SKggPNyCMIT5lu.woff2) format("woff2");
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(../fonts/1Ptug8zYS_SKggPNyC0ITw.woff2) format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
 /* line 1, ../../sass/partials/_layout.scss */
 * {
   box-sizing: border-box;
@@ -49,7 +292,7 @@ section {
 
 /* line 3, ../../sass/partials/_modules.scss */
 * {
-  font-family: "Arial";
+  font-family: "Raleway";
 }
 
 /* line 7, ../../sass/partials/_modules.scss */
@@ -70,43 +313,113 @@ section {
   min-height: -webkit-calc( 100vh - 0px );
 }
 
-/* line 23, ../../sass/partials/_modules.scss */
+/* line 17, ../../sass/partials/_modules.scss */
+.bg-blue {
+  background-color: #34bce3;
+}
+
+/* line 27, ../../sass/partials/_modules.scss */
 .decoration-none {
   text-decoration: none !important;
 }
 
-/* line 33, ../../sass/partials/_modules.scss */
+/* line 37, ../../sass/partials/_modules.scss */
+.fit-cover {
+  object-fit: cover;
+}
+
+/* line 42, ../../sass/partials/_modules.scss */
 .font-logo {
-  font-family: "Arial";
+  font-family: "Dancing Script";
   font-size: 24px;
 }
-/* line 36, ../../sass/partials/_modules.scss */
+/* line 45, ../../sass/partials/_modules.scss */
 .font-menu {
-  font-family: "Arial";
+  font-family: "Raleway";
   font-size: 16px;
 }
 
-/* line 41, ../../sass/partials/_modules.scss */
+/* line 50, ../../sass/partials/_modules.scss */
+.h-25vh {
+  height: 25vh;
+}
+/* line 53, ../../sass/partials/_modules.scss */
+.h-35vh {
+  height: 35vh;
+}
+/* line 56, ../../sass/partials/_modules.scss */
+.h-50vh {
+  height: 50vh;
+}
+/* line 59, ../../sass/partials/_modules.scss */
+.h-100vh {
+  height: 100vh;
+}
+
+/* line 64, ../../sass/partials/_modules.scss */
+.hover-blue:hover {
+  background-color: #34bce3;
+  color: #fff !important;
+}
+/* line 65, ../../sass/partials/_modules.scss */
+.hover-blue:hover .text-blue {
+  color: #fff !important;
+}
+
+/* line 73, ../../sass/partials/_modules.scss */
+.minh-25vh {
+  min-height: 25vh;
+}
+/* line 76, ../../sass/partials/_modules.scss */
 .minh-50vh {
   min-height: 50vh;
 }
-/* line 44, ../../sass/partials/_modules.scss */
+/* line 79, ../../sass/partials/_modules.scss */
+.minh-75vh {
+  min-height: 75vh;
+}
+/* line 82, ../../sass/partials/_modules.scss */
 .minh-100vh {
   min-height: 100vh;
 }
 
-/* line 49, ../../sass/partials/_modules.scss */
-.p-header {
-  padding-top: 60px;
+/* line 87, ../../sass/partials/_modules.scss */
+.mix-multiply {
+  mix-blend-mode: multiply;
 }
 
-/* line 54, ../../sass/partials/_modules.scss */
+/* line 92, ../../sass/partials/_modules.scss */
+.p-header {
+  padding-top: 75px;
+}
+
+/* line 97, ../../sass/partials/_modules.scss */
 .privacy-container {
   background-color: #fff !important;
   opacity: 0.8;
 }
 
-/* line 63, ../../sass/partials/_modules.scss */
+/* line 106, ../../sass/partials/_modules.scss */
+.slide-title {
+  font-size: 32px;
+  font-weight: 700;
+}
+
+/* line 112, ../../sass/partials/_modules.scss */
+.text-blue {
+  color: #34bce3;
+}
+/* line 115, ../../sass/partials/_modules.scss */
 .text-shadow {
   text-shadow: 1px 1px 4px #000;
+}
+
+/* line 120, ../../sass/partials/_modules.scss */
+.z-100 {
+  z-index: 100;
+}
+
+/* line 124, ../../sass/partials/_modules.scss */
+textarea {
+  resize: none;
 }
