@@ -13,7 +13,11 @@
     @extend %bg-blend;
     @include calc-param(min-height, $section__min-height, $header__height);
 }
-
+.bg{
+    &-blue{
+        background-color: $color__blue;
+    }
+}
 .comingsoon{
     &-s1{
         @extend %bg-tmp;
@@ -29,6 +33,11 @@
         @extend %bg-tmp;
     }
 }
+.fit{
+    &-cover{
+        object-fit: cover;
+    }
+}
 .font{
     &-logo{
         @include set-font-params($font-logo__family,$font-logo__size);
@@ -37,12 +46,46 @@
         @include set-font-params($font-main__family,$font-main__size);
     }
 }
+.h{
+    &-25vh{
+        height:25vh;
+    }
+    &-35vh{
+        height:35vh;
+    }
+    &-50vh{
+        height:50vh;
+    }
+    &-100vh{
+        height:100vh;
+    }
+}
+.hover{
+    &-blue:hover{
+        & .text-blue{
+            color: $color__white !important;
+        }
+        background-color: $color__blue;
+        color: $color__white !important;
+    }
+}
 .minh{
+    &-25vh{
+        min-height: 25vh;
+    }
     &-50vh{
         min-height: 50vh;
     }
+    &-75vh{
+        min-height: 75vh;
+    }
     &-100vh{
         min-height: 100vh;
+    }
+}
+.mix{
+    &-multiply{
+        mix-blend-mode: $bg__blend--multiply;
     }
 }
 .p{
@@ -59,8 +102,25 @@
         @extend %bg-tmp;
     }
 }
+.slide{
+    &-title{
+        font-size: $slide-title__size;
+        font-weight: $slide-title__weight;
+    }
+}
 .text{
+    &-blue{
+        color: $color__blue;
+    }
     &-shadow{
         text-shadow: $text__shadow;
     }
+}
+.z{
+    &-100{
+        z-index: 100;
+    }
+}
+textarea{
+    resize: none;
 }
