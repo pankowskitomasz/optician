@@ -9,10 +9,8 @@ class ContactData extends Component{
     render(){
         let linking;
         if(this.props.backLink!==undefined){
-            linking = <Link to={this.props.backLink.path}>
-                <Button variant="outline-light">
-                    {this.props.backLink.name}
-                </Button>
+            linking = <Link to={this.props.backLink.path} className="btn btn-outline-light">
+                {this.props.backLink.name}
             </Link>;
         }
         return(        

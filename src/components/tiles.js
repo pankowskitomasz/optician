@@ -10,10 +10,8 @@ class Tiles extends Component{
     render(){
         let linking;
         if(this.props.backLink!==undefined){
-            linking = <Link to={this.props.backLink.path}>
-                <Button variant="warning" className="rounded-pill">
-                    See now
-                </Button>
+            linking = <Link to={this.props.backLink.path} className="btn btn-warning rounded-pill">
+                See now
             </Link>;
         }
         return(        

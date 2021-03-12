@@ -25,10 +25,8 @@ class IndexSlider extends Component{
                                         Our team consists of profesional and experienced opticians and optometrists.
                                         In our examinations we use only certified and high quality medical devices.
                                     </p>
-                                    <Link to="/offer">
-                                        <Button variant="primary" className="rounded-pill font-weight-bold">
-                                            More
-                                        </Button>
+                                    <Link to="/offer" className="btn btn-primary rounded-pill font-weight-bold">
+                                        More
                                     </Link>
                                 </Carousel.Caption>
                             </Carousel.Item>
@@ -44,10 +42,8 @@ class IndexSlider extends Component{
                                         Our team includes specialists from sales and intergration
                                         areas. See more information about us.
                                     </p>
-                                    <Link to="/about">
-                                        <Button variant="primary" className="rounded-pill font-weight-bold">
-                                            More
-                                        </Button>
+                                    <Link to="/about" className="btn btn-primary rounded-pill font-weight-bold">
+                                        More
                                     </Link>
                                 </Carousel.Caption>
                             </Carousel.Item>
@@ -63,10 +59,8 @@ class IndexSlider extends Component{
                                         Our employees are for your disposal and answer all your questions.
                                         Contact us online, by phone or personally. 
                                     </p>
-                                    <Link to="/contact">
-                                        <Button variant="primary" className="rounded-pill font-weight-bold">
-                                            More
-                                        </Button>
+                                    <Link to="/contact" className="btn btn-primary rounded-pill font-weight-bold">
+                                        More
                                     </Link>
                                 </Carousel.Caption>
                             </Carousel.Item>
